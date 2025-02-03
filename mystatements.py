@@ -7,4 +7,4 @@ for item in my_list:
 for key, value in my_dict.items():
     print(f"i love {key} {value}")
 
- #my_dict=my_dict
+# my_dict=my_dict

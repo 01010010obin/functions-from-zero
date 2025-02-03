@@ -1,5 +1,6 @@
-#print("hello")
+# print("hello")
 def add(x, y):
-    return x+y
-print(add(2,2))
+    return x + y
 
+
+print(add(2, 2))
